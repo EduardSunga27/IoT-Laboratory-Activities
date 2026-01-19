@@ -1,5 +1,3 @@
-Here is the paraphrased version of the fourth laboratory overview, maintaining the established structure and formatting.
-
 # Laboratory Activity #4: Arduino Serial Connection & Latching Logic
 
 ### Overview: The "Sticky" Alarm
