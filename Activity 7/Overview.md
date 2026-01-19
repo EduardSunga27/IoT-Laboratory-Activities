@@ -32,7 +32,7 @@ The codebase is segmented into three specific layers to ensure separation of con
 
 **The Backend (main.py):** This serves as the "Middleware." It utilizes **FastAPI** to establish a local web server accessible by the browser. It also manages the serial communication protocol, handling the actual data transfer to the Arduino.
 
-**The Firmware (LabAct7.ino):** This is the embedded logic on the microcontroller. It is designed for simplicity: it waits for specific character inputs (such as 1, 2, or 9) and triggers the associated digital pins (Red, Green, or Blue) based on the received character.
+**The Firmware (Activity #7.ino):** This is the embedded logic on the microcontroller. It is designed for simplicity: it waits for specific character inputs (such as 1, 2, or 9) and triggers the associated digital pins (Red, Green, or Blue) based on the received character.
 
 ### Key Concepts Learned
 
